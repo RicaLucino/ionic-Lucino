@@ -1,0 +1,7 @@
+{
+  "name": "ionic-Lucino",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react-vite"
+}
